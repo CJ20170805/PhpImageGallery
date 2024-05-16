@@ -1,0 +1,18 @@
+.wrapper{
+    width: 1230px;
+    margin: 0 auto;
+}
+.img-list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.img-list img{
+    width: 100%;
+}
+.img-list .img-item{
+    width: 31%;
+}
+.local-img-list img{
+    width: 1230px;
+}
